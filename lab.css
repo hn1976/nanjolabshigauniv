@@ -1,0 +1,70 @@
+h1, h2, h3{
+        font-family: sans-serif;
+}
+
+body {
+        background: #ffffff;
+}
+
+h1 {
+        padding: 0.2em;
+        background: #9999ff;
+        color: #ffffff;
+        background: #ff9966;
+        color: #000000;
+}
+
+h1.name {
+        padding: 0.2em;
+        background: #ffffff;        
+        color: #6699cc;
+        border-bottom: 5px solid #99ccff;
+	color: #003366;
+        border-bottom: 5px solid #003366;
+
+}
+
+h2 {
+        padding: 0.2em;
+        background: #003366;
+        color: #ffffff;
+}
+
+h3 {
+        padding: 0.1em;
+        border-left: 5px solid #99ccff;
+        border-bottom: 5px solid #99ccff;
+        border-left: 5px solid #003366;
+        border-bottom: 5px solid #003366;
+}
+
+A { text-decoration: none; }
+A:link { color: #333399; }
+A:visited { color: #333399; }
+A:hover { color: #ff0000; }
+
+div.t-link-r {
+        text-align: right;
+}
+
+div.t-link-r2 {
+        text-align: right;
+}
+
+div.t-link {
+        text-align: left;
+}
+
+div.t-link-r A {
+	background: #eeeeee;
+}
+
+div.t-link A {
+	background: #eeeeee;
+}
+
+
+table {
+        border-spacing: 15px 3px; 
+}
+
