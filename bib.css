@@ -1,0 +1,17 @@
+h2, h3{
+        font-family: sans-serif;
+}
+
+body {
+        background: #ffffff;
+}
+
+h2 {
+        padding: 0.2em;
+        background: #6699ff;
+}
+
+h3 {
+        padding: 0.1em;
+        background: #66ccff;
+}
